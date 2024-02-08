@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1649926592 source:c:\users\hp\downloads\network\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Member.h"
+
+1650028011 c:\users\hp\downloads\network\member.h
+	<bits/stdc++.h>
+
+1650027990 source:c:\users\hp\downloads\network\member.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<ostream>
+	<string>
+	<cstdlib>
+	"Member.h"
+	<bits/stdc++.h>
+
+1649926592 source:c:\users\hp\desktop\mca 2nd sem\project(c++)\network\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Member.h"
+
+1652928869 c:\users\hp\desktop\mca 2nd sem\project(c++)\network\member.h
+	<bits/stdc++.h>
+
+1650027990 source:c:\users\hp\desktop\mca 2nd sem\project(c++)\network\member.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<ostream>
+	<string>
+	<cstdlib>
+	"Member.h"
+	<bits/stdc++.h>
+
